@@ -1,5 +1,5 @@
-# Android_Social_Sharing_Footprints
+# Android_Social_Sharing_Footprints<br />
 Java/Android application
--Google APIs(Map/Route/Location)\n
--Google Firebase\n
--Social Media login\n
+-Google APIs(Map/Route/Location)<br /><br />
+-Google Firebase<br /><br />
+-Social Media login<br /><br />
